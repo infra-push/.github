@@ -19,7 +19,7 @@ We have some really awesome enthusiastic programmers, check them out...
 
 | Name            | GitHub                                          | Role              |
 | --------------- | ----------------------------------------------- | ----------------- |
-| Daniel O'Connor | [FoodyFood](https://github.com/FoodyFood)       | Cloud Architect   |
+| Daniel O'Connor | [FoodyFood](https://github.com/FoodyFood)       | Cloud Engineer   |
 | Alan O'Connor   | [alanoc1980](https://github.com/alanoc1980)     | Web Developer     |
 | Shauna Proctor  | [shaunaa81](https://github.com/shaunaa81)       | UX/UI Developer   |
 | Gijsbert        | [gijzzz](https://github.com/gijzzz)             | Web Developer     |
